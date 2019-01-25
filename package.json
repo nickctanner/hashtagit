@@ -1,0 +1,16 @@
+{
+  "name": "@nct40/hashtagify",
+  "version": "1.0.0",
+  "description": "A small npm module that title cases each word in a string, strings the words together, and adds a hashtag at the beginning.",
+  "license": "MIT",
+  "repository": "nct37/hashtagify",
+  "main": "index.js",
+  "keywords": [
+    "hashtag",
+    "npm",
+    "package",
+    "nct40",
+    "string"
+  ],
+  "author": "Nick Tanner tannernc.nt@gmail.com"
+}
