@@ -1,10 +1,10 @@
 {
-  "name": "@nct40/hashtagify",
+  "name": "@nct40/hashtagit",
   "version": "1.0.0",
-  "description": "A small npm module that title cases each word in a string, strings the words together, and adds a hashtag at the beginning.",
+  "description": "Creates hashtag in PascalCase format from string removing dashes, underscores, and whitespace.",
   "license": "MIT",
-  "repository": "nct37/hashtagify",
-  "main": "index.js",
+  "repository": "nct37/hashtagit",
+  "main": "hashtagit.js",
   "keywords": [
     "hashtag",
     "npm",
@@ -12,5 +12,11 @@
     "nct40",
     "string"
   ],
-  "author": "Nick Tanner tannernc.nt@gmail.com"
+  "author": "Nick Tanner tannernc.nt@gmail.com",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.0.0"
+  }
 }
