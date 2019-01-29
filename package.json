@@ -1,18 +1,22 @@
 {
-  "name": "@nct40/hashtagit",
+  "name": "hashtagit",
   "version": "1.0.0",
-  "description": "Creates hashtag in PascalCase format from string removing dashes, underscores, and whitespace.",
+  "description": "Creates a PascalCase formatted hashtag from a given string",
   "license": "MIT",
-  "repository": "nct37/hashtagit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nct37/hashtagit"
+  },
   "main": "hashtagit.js",
   "keywords": [
     "hashtag",
+    "hashtagit",
     "npm",
     "package",
     "nct40",
     "string"
   ],
-  "author": "Nick Tanner tannernc.nt@gmail.com",
+  "author": "Nick Tanner <tannernc.nt@gmail.com>",
   "scripts": {
     "test": "jest"
   },
