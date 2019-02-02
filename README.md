@@ -8,7 +8,7 @@ Easy way to create hashtags or @mentions from any given text. Best use is from c
 npm install hashtagit
 ```
 
-##Usage
+## Usage
 
 The default takes a string as the first parameter and returns a Pascal cased hashtag.
 
@@ -48,7 +48,7 @@ hashtagit(string)('caps');
 // #THISISSOMERANDOMTEXTFROMARANDOMPASSAGE
 ```
 
-Create at mentions the same way by changing the tagType parameter to '@'.
+Create @mentions the same way by changing the tagType parameter to '@'.
 Be sure to make the format parameter null if using the default casing.
 
 ```
