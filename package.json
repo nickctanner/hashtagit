@@ -1,7 +1,7 @@
 {
   "name": "hashtagit",
   "version": "1.0.0",
-  "description": "Creates a formatted hashtag in lowercase or PascalCase from a given string",
+  "description": "Creates a formatted hashtag or @mention in the default PascalCase, or optional upper/lowercases from a given string",
   "license": "MIT",
   "repository": {
     "type": "git",
