@@ -14,7 +14,10 @@
     "npm",
     "package",
     "nct40",
-    "string"
+    "string",
+    "twitter",
+    "instagram",
+    "mention"
   ],
   "author": "Nick Tanner <tannernc.nt@gmail.com>",
   "scripts": {
