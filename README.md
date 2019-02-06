@@ -5,7 +5,7 @@ Easy way to create hashtags or @mentions from any given text. Best use is from c
 ## Installing
 
 ```
-npm install hashtagit --save
+npm install --save hashtagit
 ```
 
 ## Usage

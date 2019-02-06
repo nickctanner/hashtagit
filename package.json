@@ -1,6 +1,6 @@
 {
   "name": "hashtagit",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Creates a formatted hashtag or @mention in the default PascalCase, or optional upper/lowercases from a given string",
   "license": "MIT",
   "repository": {
@@ -21,7 +21,8 @@
   ],
   "author": "Nick Tanner <tannernc.nt@gmail.com>",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "prepublishOnly": "npm test"
   },
   "devDependencies": {
     "jest": "^24.0.0"
